@@ -1,0 +1,323 @@
+#############
+60:aed/Systre
+#############
+
+Topology for C1
+--------------------
+Atom C1 links by bridge ligands and has
+Common vertex with                                R(A-A)
+C  3    0.1115    0.2734    0.3799   ( 0 0 0)     1.000A        1
+C  3   -0.0234    0.3615    0.3701   ( 0 0 0)     1.000A        1
+C  3    0.1201    0.3885    0.2266   (-1 0 0)     1.000A        1
+Topology for C2
+--------------------
+Atom C2 links by bridge ligands and has
+Common vertex with                                R(A-A)
+C  3    0.1115    0.2734    0.3799   ( 0 0 0)     1.000A        1
+C  3    0.0234    0.1385    0.3701   ( 0 0 0)     1.000A        1
+C  3    0.2266    0.1201    0.3885   ( 0-1 0)     1.001A        1
+Topology for C3
+--------------------
+Atom C3 links by bridge ligands and has
+Common vertex with                                R(A-A)
+C  2   -0.0840    0.1216    0.3713   (-1-1 0)     1.000A        1
+C  1    0.0987    0.1811    0.4361   (-1-1 0)     1.000A        1
+C  2    0.1284    0.1660    0.3787   ( 0 0 0)     1.000A        1
+C  1   -0.0689    0.1513    0.3139   ( 0 0 0)     1.000A        1
+C  1   -0.0639    0.0987    0.3189   ( 0-1 0)     1.000A        1
+C  2    0.1216    0.1287    0.4160   ( 0-1 0)     1.001A        1
+-------------------------
+Structural group analysis
+-------------------------
+
+-------------------------
+Structural group No 1
+-------------------------
+Structure consists of 3D framework with C
+
+Coordination sequences
+----------------------
+C1:  1  2  3  4  5   6   7   8   9  10
+Num  3 12 10 31 25  72  55 144  93 221
+Cum  4 16 26 57 82 154 209 353 446 667
+----------------------
+C2:  1  2  3  4  5   6   7   8   9  10
+Num  3 12 10 31 25  72  55 145  92 221
+Cum  4 16 26 57 82 154 209 354 446 667
+----------------------
+C3:  1  2  3  4   5   6   7   8   9  10
+Num  6  6 20 17  50  39 110  75 185 117
+Cum  7 13 33 50 100 139 249 324 509 626
+----------------------
+TD10=653
+
+Vertex symbols for selected sublattice
+--------------------------------------
+C1 Point symbol:{4^3}
+Extended point symbol:[4.4.4]
+Rings coincide with circuits
+All rings (up to 18): [(4,6,8(8),16(256)).(4,6,12(32),16(256)).(4,6,16(512))]
+All rings with types: [(4a,6a,8a(2),8b(3),8c,8d,8e,16a(2),16aa(2),16ab(2),16ac(2),16ad(2),16ae(2),16af(2),16ag,16ah,16ai,16aj,16ak,16al,16am,16an,16ao,16ap,16aq,16ar,16as,16at,16au,16av,16aw,16ax,16ay,16az,16b(2),16ba,16bb,16bc,16bd,16be,16bf,16bg,16bh,16bi,16bj,16bk,16bl,16bm,16bn,16bo,16bp,16bq,16br,16bs,16bt,16bu,16bv,16bw,16bx,16by,16bz,16c(2),16ca,16cb,16cc,16cd,16ce,16cf,16cg,16ch,16ci,16cj,16ck,16cl,16cm,16cn,16co,16cp,16cq,16cr,16cs,16ct,16cu,16cv,16cw,16cx,16cy,16cz,16d(2),16da,16db,16dc,16dd,16de,16df,16dg,16dh,16di,16dj,16dk,16dl,16dm,16dn,16do,16dp,16dq,16dr,16ds,16dt,16du,16dv,16dw,16dx,16dy,16dz,16e(2),16ea,16eb,16ec,16ed,16ee,16ef,16eg,16eh,16ei,16ej,16ek,16el,16em,16en,16eo,16ep,16eq,16er,16es,16et,16eu,16ev,16ew,16ex,16ey,16ez,16f(2),16fa,16fb,16fc,16fd,16fe(2),16ff(2),16fg(2),16fh(2),16fi(2),16fj(2),16fk(2),16fl,16fm(2),16fn(2),16fo(2),16fp,16fq(2),16fr(2),16fs(2),16ft(2),16fu(2),16fv(2),16fw(2),16fx,16fy(2),16fz(2),16g(2),16ga,16gb(2),16gc(2),16gd(2),16ge(2),16gf(2),16gg(2),16gh,16gi(2),16g
+j,16gk(2),16gl(2),16gm,16gn,16h(2),16i(2),16j(2),16k(2),16l(2),16m(2),16n(2),16o(2),16p(2),16q(2),16r(2),16s(2),16t(2),16u(2),16v(2),16w(2),16x(2),16y(2),16z(2)).(4b,6a,12a(3),12b(4),12c(2),12d(3),12e(4),12f(5),12g,12h(2),12i,12j(3),12k(2),12l,12m,16a,16aa,16ab(2),16ac,16ad,16ag,16ah(2),16ai,16aj(2),16ak,16al(2),16am,16an(2),16ao,16ap(2),16aq,16ar(2),16as,16at(2),16au,16av(2),16ax,16az,16b(2),16bb,16bd,16bf,16bh,16bj,16bl,16bm,16bn(2),16bo,16bp(2),16bq,16br(2),16bs,16bt(2),16bu,16bv(2),16bw,16bx(2),16by,16bz(2),16c,16ca,16cb(2),16cd,16cf,16ch,16cj,16cl,16cn,16cp,16cr,16cs,16ct(2),16cu,16cv(2),16cw,16cx(2),16cy,16cz(2),16d(2),16da,16db(2),16dc,16dd(2),16de,16df(2),16dg,16dh(2),16di,16dj(2),16dk,16dl(2),16dm,16dn(2),16do,16dp(2),16dq,16dr(2),16ds,16dt(2),16du,16dv(2),16dw,16dx(2),16dz,16e,16eb,16ed,16ef,16eh,16ej,16el,16en,16ep,16er,16et,16ev,16ex,16ez,16f(2),16fb,16fd,16fe,16ff(2),16fg,16fh(2),16fi,16fj(2),16fk,16fl,16fm,16fn(2),16fo,16fp,16fq,16fr(2),16fs,16ft,16fu(2),16fv,16fw,16fx,16fy,16fz,16g,16ga,16gb,16
+gc,16gd,16go,16gp,16gq,16gr,16gs,16gt,16gu,16gv,16gw,16gx,16gy,16gz,16h(2),16ha,16hb,16hc,16hd,16he(2),16hf(2),16hg,16hh,16hi(2),16hj(2),16hk,16hl,16hm,16hn,16ho(2),16hp(2),16hq,16hr,16hs(2),16ht(2),16hu(2),16hv,16hw(2),16hx,16hy(2),16hz(2),16i,16ia,16ib,16ic,16id,16ie(2),16if(2),16ig,16ih,16ii,16ij,16ik,16il,16j(2),16k,16l,16m(2),16n,16p,16s,16v,16x,16y,16z(2)).(4c,6b,16a(2),16aa(2),16ab(2),16ac(2),16ad(2),16ae(2),16af(2),16ag(2),16ah(2),16ai(2),16aj(2),16ak(2),16al(2),16am(2),16an(2),16ao(2),16ap(2),16aq(2),16ar(2),16as(2),16at(2),16au(2),16av(2),16aw(2),16ax(2),16ay(2),16az(2),16b(2),16ba(2),16bb(2),16bc(2),16bd(2),16be(2),16bf(2),16bg(2),16bh(2),16bi(2),16bj(2),16bk(2),16bl(2),16bm(2),16bn(2),16bo(2),16bp(2),16bq(2),16br(2),16bs(2),16bt(2),16bu(2),16bv(2),16bw(2),16bx(2),16by(2),16bz(2),16c(2),16ca(2),16cb(2),16cc(2),16cd(2),16ce(2),16cf(2),16cg(2),16ch(2),16ci(2),16cj(2),16ck(2),16cl(2),16cm(2),16cn(2),16co(2),16cp(2),16cq(2),16cr(2),16cs(2),16ct(2),16cu(2),16cv(2),16cw(2),16cx(2),16cy(2),16cz(2),16d(2),
+16da(2),16db(2),16dc(2),16dd(2),16de(2),16df(2),16dg(2),16dh(2),16di(2),16dj(2),16dk(2),16dl(2),16dm(2),16dn(2),16do(2),16dp(2),16dq(2),16dr(2),16ds(2),16dt(2),16du(2),16dv(2),16dw(2),16dx(2),16dy(2),16dz(2),16e(2),16ea(2),16eb(2),16ec(2),16ed(2),16ee(2),16ef(2),16eg(2),16eh(2),16ei(2),16ej(2),16ek(2),16el(2),16em(2),16en(2),16eo(2),16ep(2),16eq(2),16er(2),16es(2),16et(2),16eu(2),16ev(2),16ew(2),16ex(2),16ey(2),16ez(2),16f(2),16fa(2),16fb(2),16fc(2),16fd(2),16fe(2),16ff(2),16fg(2),16fh(2),16fi(2),16fj(2),16fk(2),16fl,16fm(2),16fn(2),16fo(2),16fp,16fq(2),16fr(2),16fs(2),16ft(2),16fu(2),16fv(2),16fw(2),16fx,16fy(2),16fz(2),16g(2),16ga,16gb(2),16gc(2),16gd(2),16ge(2),16gf(2),16gg(2),16gh,16gi(2),16gj,16gk(2),16gl(2),16gm,16gn,16go(2),16gp(2),16gq(2),16gr(2),16gs(2),16gt(2),16gu(2),16gv(2),16gw(2),16gx(2),16gy(2),16gz(2),16h(2),16ha(2),16hb(2),16hc(2),16hd(2),16he(2),16hf(2),16hg(2),16hh(2),16hi(2),16hj(2),16hk(2),16hl(2),16hm(2),16hn(2),16ho(2),16hp(2),16hq(2),16hr(2),16hs(2),16ht(2),16hu(2),16hv,16hw(2),16hx,16
+hy(2),16hz(2),16i(2),16ia,16ib,16ic(2),16id(2),16ie(2),16if(2),16ig(2),16ih(2),16ii(2),16ij(2),16ik(2),16il(2),16im(2),16in(2),16io(2),16ip(2),16iq(2),16ir(2),16is(2),16it(2),16iu(2),16iv(2),16iw(2),16ix,16iy,16iz(2),16j(2),16ja(2),16jb(2),16jc,16jd,16k(2),16l(2),16m(2),16n(2),16o(2),16p(2),16q(2),16r(2),16s(2),16t(2),16u(2),16v(2),16w(2),16x(2),16y(2),16z(2))]
+--------------------------------------
+C2 Point symbol:{4^3}
+Extended point symbol:[4.4.4]
+Rings coincide with circuits
+All rings (up to 18): [(4,6,8(8),16(256)).(4,6,12(32),16(256)).(4,6,16(512))]
+All rings with types: [(4a,6b,8a(2),8b,8c(3),8e,8f,16ag,16ah,16ai,16aj,16ak,16al,16am,16an,16ao,16ap,16aq,16ar,16as,16at,16au,16av,16aw,16ax,16ay,16az,16ba,16bb,16bc,16bd,16be,16bf,16bg,16bh,16bi,16bj,16bk,16bl,16bm,16bn,16bo,16bp,16bq,16br,16bs,16bt,16bu,16bv,16bw,16bx,16by,16bz,16ca,16cb,16cc,16cd,16ce,16cf,16cg,16ch,16ci,16cj,16ck,16cl,16cm,16cn,16co,16cp,16cq,16cr,16cs,16ct,16cu,16cv,16cw,16cx,16cy,16cz,16da,16db,16dc,16dd,16de,16df,16dg,16dh,16di,16dj,16dk,16dl,16dm,16dn,16do,16dp,16dq,16dr,16ds,16dt,16du,16dv,16dw,16dx,16dy,16dz,16ea,16eb,16ec,16ed,16ee,16ef,16eg,16eh,16ei,16ej,16ek,16el,16em,16en,16eo,16ep,16eq,16er,16es,16et,16eu,16ev,16ew,16ex,16ey,16ez,16fa,16fb,16fc,16fd,16go(2),16gp(2),16gq(2),16gr(2),16gs(2),16gt(2),16gu(2),16gv(2),16gw(2),16gx(2),16gy(2),16gz(2),16ha(2),16hb(2),16hc(2),16hd(2),16he(2),16hf(2),16hg(2),16hh(2),16hi(2),16hj(2),16hk(2),16hl(2),16hm(2),16hn(2),16ho(2),16hp(2),16hq(2),16hr(2),16hs(2),16ht(2),16hu(2),16hv,16hw(2),16hx,16hy(2),16hz(2),16ia,16ib,16ic(2),16id(2),16ie(2),1
+6if(2),16ig(2),16ih(2),16ii(2),16ij(2),16ik(2),16il(2),16im(2),16in(2),16io(2),16ip(2),16iq(2),16ir(2),16is(2),16it(2),16iu(2),16iv(2),16iw(2),16ix,16iy,16iz(2),16ja(2),16jb(2),16jc,16jd).(4b,6b,12a(3),12b(2),12c(4),12d(3),12e(2),12f,12g,12h(4),12i(5),12j(3),12k,12m(2),12n,16a,16aa,16ac,16ad,16ae(2),16af(2),16ag,16ai,16ak,16am,16ao,16aq,16as,16au,16aw(2),16ax,16ay(2),16az,16ba(2),16bb,16bc(2),16bd,16be(2),16bf,16bg(2),16bh,16bi(2),16bj,16bk(2),16bl,16bm,16bo,16bq,16bs,16bu,16bw,16by,16c,16ca,16cc(2),16cd,16ce(2),16cf,16cg(2),16ch,16ci(2),16cj,16ck(2),16cl,16cm(2),16cn,16co(2),16cp,16cq(2),16cr,16cs,16cu,16cw,16cy,16da,16dc,16de,16dg,16di,16dk,16dm,16do,16dq,16ds,16du,16dw,16dy(2),16dz,16e,16ea(2),16eb,16ec(2),16ed,16ee(2),16ef,16eg(2),16eh,16ei(2),16ej,16ek(2),16el,16em(2),16en,16eo(2),16ep,16eq(2),16er,16es(2),16et,16eu(2),16ev,16ew(2),16ex,16ey(2),16ez,16fa(2),16fb,16fc(2),16fd,16fe,16fg,16fi,16fk,16fm,16fo,16fq,16fs,16ft,16fv,16fw,16fy,16fz,16g,16gb,16gc,16gd,16ge(2),16gf(2),16gg(2),16gh,16gi(2),16gj,16gk(
+2),16gl(2),16gm,16gn,16go,16gp,16gq,16gr,16gs,16gt,16gu,16gv,16gw,16gx,16gy,16gz,16ha,16hb,16hc,16hd,16hg,16hh,16hk,16hl,16hm,16hn,16hq,16hr,16i,16ic,16id,16ig,16ih,16ii,16ij,16ik,16il,16im(2),16in(2),16io(2),16ip(2),16iq(2),16ir(2),16is(2),16it(2),16iu(2),16iv(2),16iw(2),16ix,16iy,16iz(2),16ja(2),16jb(2),16jc,16jd,16k,16l,16n,16o(2),16p,16q(2),16r(2),16s,16t(2),16u(2),16v,16w(2),16x,16y).(4d,6a,16a(2),16aa(2),16ab(2),16ac(2),16ad(2),16ae(2),16af(2),16ag(2),16ah(2),16ai(2),16aj(2),16ak(2),16al(2),16am(2),16an(2),16ao(2),16ap(2),16aq(2),16ar(2),16as(2),16at(2),16au(2),16av(2),16aw(2),16ax(2),16ay(2),16az(2),16b(2),16ba(2),16bb(2),16bc(2),16bd(2),16be(2),16bf(2),16bg(2),16bh(2),16bi(2),16bj(2),16bk(2),16bl(2),16bm(2),16bn(2),16bo(2),16bp(2),16bq(2),16br(2),16bs(2),16bt(2),16bu(2),16bv(2),16bw(2),16bx(2),16by(2),16bz(2),16c(2),16ca(2),16cb(2),16cc(2),16cd(2),16ce(2),16cf(2),16cg(2),16ch(2),16ci(2),16cj(2),16ck(2),16cl(2),16cm(2),16cn(2),16co(2),16cp(2),16cq(2),16cr(2),16cs(2),16ct(2),16cu(2),16cv(2),16cw(2),16cx
+(2),16cy(2),16cz(2),16d(2),16da(2),16db(2),16dc(2),16dd(2),16de(2),16df(2),16dg(2),16dh(2),16di(2),16dj(2),16dk(2),16dl(2),16dm(2),16dn(2),16do(2),16dp(2),16dq(2),16dr(2),16ds(2),16dt(2),16du(2),16dv(2),16dw(2),16dx(2),16dy(2),16dz(2),16e(2),16ea(2),16eb(2),16ec(2),16ed(2),16ee(2),16ef(2),16eg(2),16eh(2),16ei(2),16ej(2),16ek(2),16el(2),16em(2),16en(2),16eo(2),16ep(2),16eq(2),16er(2),16es(2),16et(2),16eu(2),16ev(2),16ew(2),16ex(2),16ey(2),16ez(2),16f(2),16fa(2),16fb(2),16fc(2),16fd(2),16fe(2),16ff(2),16fg(2),16fh(2),16fi(2),16fj(2),16fk(2),16fl,16fm(2),16fn(2),16fo(2),16fp,16fq(2),16fr(2),16fs(2),16ft(2),16fu(2),16fv(2),16fw(2),16fx,16fy(2),16fz(2),16g(2),16ga,16gb(2),16gc(2),16gd(2),16ge(2),16gf(2),16gg(2),16gh,16gi(2),16gj,16gk(2),16gl(2),16gm,16gn,16go(2),16gp(2),16gq(2),16gr(2),16gs(2),16gt(2),16gu(2),16gv(2),16gw(2),16gx(2),16gy(2),16gz(2),16h(2),16ha(2),16hb(2),16hc(2),16hd(2),16he(2),16hf(2),16hg(2),16hh(2),16hi(2),16hj(2),16hk(2),16hl(2),16hm(2),16hn(2),16ho(2),16hp(2),16hq(2),16hr(2),16hs(2),16ht(2),1
+6hu(2),16hv,16hw(2),16hx,16hy(2),16hz(2),16i(2),16ia,16ib,16ic(2),16id(2),16ie(2),16if(2),16ig(2),16ih(2),16ii(2),16ij(2),16ik(2),16il(2),16im(2),16in(2),16io(2),16ip(2),16iq(2),16ir(2),16is(2),16it(2),16iu(2),16iv(2),16iw(2),16ix,16iy,16iz(2),16j(2),16ja(2),16jb(2),16jc,16jd,16k(2),16l(2),16m(2),16n(2),16o(2),16p(2),16q(2),16r(2),16s(2),16t(2),16u(2),16v(2),16w(2),16x(2),16y(2),16z(2))]
+--------------------------------------
+C3 Point symbol:{4^6.8^4.10^4.12}
+Extended point symbol:[4.4.4.4.4.4.8(4).8(4).8(4).8(4).10(16).10(16).12(80).10(16).10(16)]
+Vertex symbol:        [4.4.4.4.4.4.8(4).8(4).8(4).8(4).12(16).12(16).12(16).16(256).16(384)]
+All rings (up to 18): [(4,6).(4,6).(4,6).(4,6).(4,6).(4,6).(8(4),12(16),16(128)).(8(4),16(128)).(8(4),16(256)).(8(4),16(256)).(12(16),16(256)).(12(16),16(128)).(12(16),16(256)).16(256).16(384)]
+All rings with types: [(4a,6b).(4b,6b).(4a,6a).(4b,6a).(4d,6b).(4c,6a).(8a,8b,8c,8e,12a,12b,12c(2),12d(2),12e(2),12f,12g,12h,12i,12j(2),12k,12m,16ag,16ah,16ai,16aj,16ak,16al,16am,16an,16ao,16ap,16aq,16ar,16as,16at,16au,16av,16bm,16bn,16bo,16bp,16bq,16br,16bs,16bt,16bu,16bv,16bw,16bx,16by,16bz,16ca,16cb,16cs,16ct,16cu,16cv,16cw,16cx,16cy,16cz,16da,16db,16dc,16dd,16de,16df,16dg,16dh,16di,16dj,16dk,16dl,16dm,16dn,16do,16dp,16dq,16dr,16ds,16dt,16du,16dv,16dw,16dx,16go,16gp,16gq,16gr,16gs,16gt,16gu,16gv,16gw,16gx,16gy,16gz,16ha,16hb,16hc,16hd,16he(2),16hf(2),16hg,16hh,16hi(2),16hj(2),16hk,16hl,16hm,16hn,16ho(2),16hp(2),16hq,16hr,16hs(2),16ht(2),16hu(2),16hv,16hw(2),16hx,16hy(2),16hz(2),16ia,16ib,16ic,16id,16ie(2),16if(2),16ig,16ih,16ii,16ij,16ik,16il).(8a,8c(2),8f,16aa,16ad,16ae,16af,16ak,16am,16as,16au,16aw,16ax,16ay,16az,16ba,16bc,16be,16bf,16bg,16bh,16bi,16bk,16bq,16bs,16by,16ca,16cc,16cd,16ce,16cf,16cg,16ci,16ck,16cl,16cm,16cn,16co,16cq,16cw,16cy,16de,16dg,16dm,16do,16du,16dw,16dy,16dz,16e,16ea,16eb,16ec(2),16
+ed,16ee(2),16ef,16ek,16em,16eo,16ep,16eq,16er,16es(2),16et,16eu(2),16ev,16fa,16fc,16fi,16fk,16fq,16fs,16fw,16fy,16g,16gc,16gd,16ge,16gf,16gg(2),16gh,16gk,16gl,16gm,16go,16gp,16gq,16gr,16gs,16gt,16gu,16gv,16hg,16hk,16hm,16hq,16ic,16ig,16ii,16ik,16im,16in,16io,16ip,16iq,16ir,16is,16iu(2),16iv,16iw,16iy,16iz,16ja,16jb,16jd,16l,16n,16o,16p,16q,16r,16t,16u,16v,16w).(8a,8b(2),8d,16a(2),16aa,16ab(2),16ac,16ad,16ah,16ai,16aj(2),16al,16am,16an(2),16ap,16aq,16ar(2),16at,16au,16av(2),16ax,16ay,16az(2),16b(3),16bb,16bc,16bd(2),16bf,16bg,16bh(2),16bj,16bk,16bl(2),16bn,16bo,16bp(2),16br,16bs,16bt(2),16bv,16bw,16bx(2),16bz,16c(3),16ca,16cb(2),16cd,16ce,16cf(2),16ch,16ci,16cj(2),16cl,16cm,16cn(2),16cp,16cq,16cr(2),16ct,16cu,16cv(2),16cx,16cy,16cz(2),16d(4),16db,16dc,16dd(2),16df,16dg,16dh(2),16dj,16dk,16dl(2),16dn,16do,16dp(2),16dr,16ds,16dt(2),16dv,16dw,16dx(2),16dz,16e(2),16ea,16eb(2),16ed,16ee,16ef(2),16eh,16ei,16ej(2),16el,16em,16en(2),16ep,16eq,16er(2),16et,16eu,16ev(2),16ex,16ey,16ez(2),16f(3),16fb,16fc,16fd(2),16fe(2)
+,16ff(3),16fg(3),16fh(4),16fi(2),16fj(3),16fk(3),16fl(2),16fm(2),16fn(3),16fo(3),16fp(2),16fq(2),16fr(3),16fs(3),16ft,16fu(2),16fv(2),16fw,16fx,16fy(2),16fz,16g(3),16ga,16gb(2),16gc,16gd(2),16ge,16gf(2),16gg,16gh,16gi,16gj,16gk,16h(4),16i(2),16j(3),16k(3),16l(2),16m(3),16n(3),16o,16p(2),16q(2),16r,16s(2),16t(2),16u,16v(2),16w,16x(2),16y,16z(2)).(8a,8b,8c,8e,16aa,16ab,16ac,16ad,16ae,16af,16ag,16ah,16ai,16aj,16ak,16al,16am,16an,16ao(2),16ap(2),16aq,16ar,16as(2),16at(2),16au,16av,16aw,16ax,16ay,16az,16ba,16bb,16bc,16bd,16be(2),16bf(2),16bg,16bh,16bi(2),16bj(2),16bk,16bl,16bm,16bn,16bo,16bp,16bq,16br,16bs,16bt,16bu,16bv,16by,16bz,16cc,16cd,16ce,16cf,16cg,16ch,16ci,16cj,16ck,16cl,16co,16cp,16cs,16ct,16cu,16cv,16cw,16cx,16cy,16cz,16da(2),16db(2),16dc,16dd,16de(2),16df(2),16dg,16dh,16di,16dj,16dk,16dl,16dq(2),16dr(2),16ds,16dt,16du,16dv,16dy,16dz,16ea,16eb,16ec,16ed,16ee,16ef,16eg(2),16eh(2),16ei,16ej,16ek(2),16el(2),16em,16en,16eo,16ep,16eq,16er,16ew(2),16ex(2),16ey,16ez,16fa,16fb,16fm,16fn,16fq,16fr,16ft,16fu,16fv
+,16fz(2),16ga,16gb,16gc,16gi,16gk,16gl,16gn,16go,16gp,16gq,16gs(2),16gt(2),16gu(2),16gv,16gw(2),16gx(2),16gy(2),16gz,16ha(2),16hb(2),16hc(2),16hd,16he,16hf,16hg,16hh,16hi(2),16hj(2),16hk(2),16hl(2),16hm,16hn,16ho,16hp,16hq,16hr,16hs,16ht,16hu,16hw(2),16hx,16hy(2),16hz(2),16i,16ia,16ib,16ic,16id,16ie(2),16if(2),16ig(2),16ih(2),16ii(2),16ij(2),16ik(2),16il(2),16im(2),16in(2),16io(2),16ip,16iq(2),16ir,16is(2),16it(2),16iu,16iv,16iw(2),16ix,16iy,16iz,16j,16ja,16jb,16jc,16l,16m,16u,16v,16w,16x,16y,16z).(12a(2),12b,12c(2),12d,12h(3),12i(4),12j,12m,12n,16a,16ac,16ae,16af,16ag,16ai,16ao,16aq,16aw(2),16ax,16ay(2),16az,16ba(2),16bb(2),16bc(2),16bd(2),16be(2),16bf,16bg(2),16bh,16bi(2),16bj(2),16bk(2),16bl(2),16bm,16bo,16bu,16bw,16c,16cc(2),16cd,16ce(2),16cf,16cg(2),16ch(2),16ci(2),16cj(2),16ck(2),16cl,16cm(2),16cn,16co(2),16cp(2),16cq(2),16cr(2),16cs,16cu,16da,16dc,16di,16dk,16dq,16ds,16dy(2),16dz,16ea(2),16eb,16ec,16ed,16ee,16ef,16eg(3),16eh(2),16ei(3),16ej(2),16ek(2),16el(2),16em(2),16en(2),16eo(2),16ep,16eq(2),16er,1
+6es,16et,16eu,16ev,16ew(3),16ex(2),16ey(3),16ez(2),16fa(2),16fb(2),16fc(2),16fd(2),16fe,16fg,16fm,16fo,16ft,16fv,16fz,16gb,16ge,16gf,16gi(2),16gj,16gk,16gl,16gn,16go,16gp,16gq,16gr,16gs,16gt,16gu,16gv,16gw(2),16gx(2),16gy(2),16gz(2),16ha(2),16hb(2),16hc(2),16hd(2),16hg,16hh(2),16hk,16hl(2),16hm,16hn(2),16hq,16hr(2),16i,16ic,16id(2),16ig,16ih(2),16ii,16ij(2),16ik,16il(2),16im(3),16in(3),16io(3),16ip(3),16iq(3),16ir(3),16is(3),16it(4),16iu(2),16iv(3),16iw(3),16ix(2),16iy,16iz(3),16ja(3),16jb(3),16jc(2),16jd,16k,16o,16q,16r,16s,16t,16u,16w,16x,16y).(12a(2),12b(3),12d,12e(2),12f(4),12h,12j,12k,12l,16a,16aa(2),16ab(2),16ac(2),16ad(2),16ae(2),16af(2),16ag,16ah,16ak,16al,16ao,16ap,16as,16at,16aw,16ax,16b,16ba,16bb,16be,16bf,16bi,16bj,16bm,16bn,16bq,16br,16bu,16bv,16by,16bz,16cc,16cd,16cg,16ch,16ck,16cl,16co,16cp,16cs,16ct,16cw,16cx,16da,16db,16de,16df,16di,16dj,16dm,16dn,16dq,16dr,16du,16dv,16dy,16dz,16e,16ec,16ed,16eg,16eh,16ek,16el,16eo,16ep,16es,16et,16ew,16ex,16f,16fa,16fb,16fe,16ff,16fi,16fj,16fm,16fn,16fq,16fr
+,16ft(2),16fu(2),16fv,16fw(2),16fx,16fy,16fz(2),16ga,16gb,16gc(2),16gd,16ge,16gg,16gi,16gk,16gl(2),16gm,16gn,16i,16j,16l,16m,16o,16p,16r,16s,16u,16v,16w,16x,16y(2),16z(2)).(12a,12b,12c(2),12d(2),12e(2),12f,12g,12h,12i,12j(2),12k,12m,16aa,16ab,16ad,16ah,16ai,16aj(2),16ak,16al,16am(2),16an(2),16ao,16ap(2),16aq,16ar(2),16as(2),16at(2),16au(2),16av(2),16ax,16ay,16az(2),16b,16bc,16bd,16be,16bf(2),16bg,16bh(2),16bi,16bj,16bk,16bl,16bn,16bo,16bp(2),16bq,16br,16bs(2),16bt(2),16bv,16bx,16by,16bz,16c,16ca,16cb,16cd,16ce,16cf(2),16ci,16cj,16cl,16cn,16ct,16cu,16cv(2),16cw,16cx,16cy(2),16cz(2),16d(2),16da,16db(2),16dc,16dd(2),16de(2),16df(2),16dg(2),16dh(2),16dj,16dk,16dl(2),16do,16dp,16dq,16dr(2),16ds,16dt(2),16du,16dv,16dw,16dx,16dz,16e,16ea,16eb(2),16ec,16ed,16ee(2),16ef(2),16eh,16ej,16ek,16el,16em,16en,16ep,16eq,16er(2),16eu,16ev,16ex,16ez,16f,16ff,16fg,16fh(2),16fi,16fj,16fk(2),16fl,16fm,16fn(2),16fo,16fp,16fq(2),16fr(2),16fs(2),16fu,16fv,16fy,16fz,16g(2),16ga,16gb,16gc,16gd,16gf,16gg,16gh,16gk,16go,16gp,16gq,16gs(2)
+,16gt(2),16gu(2),16gv,16gw,16gx,16gy,16h(2),16ha,16hb,16hc,16he,16hf,16hg,16hi(2),16hj(2),16hk(2),16hl,16hm,16ho,16hp,16hq,16hs,16ht,16hu,16hw(2),16hx,16hy(2),16hz(2),16i,16ia,16ib,16ic,16ie(2),16if(2),16ig(2),16ih,16ii(2),16ij,16ik(2),16il,16im,16in,16io,16iq,16is,16iu,16iw,16iy,16j(2),16k,16l(2),16m(2),16n(2),16p,16q,16t,16u,16v(2),16w,16x,16z).(16a(2),16aa(2),16ab,16ac(2),16ad(2),16ae(3),16af(3),16ag(2),16ah,16ai,16ak(2),16al,16am,16ao,16aq,16as,16au,16aw(2),16ax,16ay,16b,16ba(2),16bb,16bc,16be,16bg,16bi,16bk,16bm(2),16bn,16bo,16bq(2),16br,16bs,16bu(2),16bv,16bw(2),16bx,16by(2),16bz,16c,16ca(2),16cb,16cc(2),16cd,16ce,16cg(2),16ch,16ci,16ck(2),16cl,16cm(2),16cn,16co(2),16cp,16cq(2),16cr,16cs(2),16ct,16cu,16cw(2),16cx,16cy,16da,16dc,16de,16dg,16di(2),16dj,16dk,16dm(3),16dn(2),16do(2),16dp,16dq,16ds,16du(2),16dv,16dw(2),16dx,16dy(2),16dz,16e(2),16ea,16ec(2),16ed,16ee,16eg,16ei,16ek,16em,16eo(2),16ep,16eq,16es(3),16et(2),16eu(2),16ev,16ew,16ey,16f,16fa(2),16fb,16fc(2),16fd,16fe(2),16ff,16fg,16fi(2),16fj,16fk,1
+6fm,16fo,16fq,16fs,16ft(2),16fu,16fv,16fw(3),16fx,16fy(2),16fz,16g,16gb,16gc(2),16gd(2),16ge(3),16gf(2),16gg(3),16gh,16gi(2),16gj,16gk(2),16gl(3),16gm(2),16gn,16go,16gp,16gq,16gr(2),16gv,16gz,16hd,16he,16hf,16hg,16hh,16hm,16hn,16ho,16hp,16hq,16hr,16hs,16ht,16hu,16hv,16i,16ic,16id,16ip,16ir,16iu,16iv,16iz,16ja,16jb,16jd,16k,16l,16n,16o(3),16p(2),16q(2),16r(3),16s(2),16t(2),16u(2),16v,16w(2),16x,16y(2),16z).(16a(2),16ab,16ac,16ag(2),16ah(2),16ai(2),16aj(2),16ak,16al(2),16am,16an(2),16ao,16ap,16aq(2),16ar(2),16at,16au,16av(2),16aw,16ax,16ay,16az,16b(2),16ba,16bb(2),16bc,16bd(2),16bg,16bh,16bj,16bk,16bl(2),16bm(2),16bn(2),16bo(2),16bp(2),16bq,16br(2),16bs,16bt(2),16bu(2),16bv(2),16bw(3),16bx(3),16by,16bz(2),16c(2),16ca(2),16cb(3),16cc,16cd,16ce,16cf,16cg,16ch(2),16ci,16cj(2),16ck,16cl,16cm(2),16cn(2),16co,16cp(2),16cq(2),16cr(3),16cs(2),16ct(2),16cu(2),16cv(2),16cw,16cx(2),16cy,16cz(2),16d(2),16da,16db,16dc(2),16dd(2),16df,16dg,16dh(2),16di(2),16dj(2),16dk(2),16dl(2),16dm(2),16dn(3),16do(2),16dp(3),16dq,16dr,16ds
+(2),16dt(2),16du,16dv(2),16dw(2),16dx(3),16dy,16dz,16e,16ea,16eb,16ed,16ef,16eg,16eh,16ei(2),16ej(2),16el,16em,16en(2),16eo,16ep,16eq,16er,16es,16et(2),16eu,16ev(2),16ew,16ex,16ey(2),16ez(2),16f(2),16fa,16fb(2),16fc(2),16fd(3),16fe(2),16ff(2),16fg(2),16fh(2),16fi,16fj(2),16fk,16fl,16fm,16fn,16fo(2),16fp,16fr,16fs,16ft,16fu,16fv,16fw,16fx,16fy,16g,16gb,16gd,16ge,16gf,16gi,16gj,16go(2),16gp(2),16gq(2),16gr(3),16gs,16gt,16gu,16gv(2),16gw(2),16gx(2),16gy(2),16gz(3),16h(2),16ha(2),16hb(2),16hc(2),16hd(3),16he(3),16hf(3),16hg(2),16hh(3),16hi(2),16hj(2),16hk,16hl(2),16hm(2),16hn(3),16ho(3),16hp(3),16hq(2),16hr(3),16hs(3),16ht(3),16hu(3),16hv(2),16hw(2),16hx,16hy(2),16hz(2),16i,16ia,16ib,16ic(2),16id(3),16ie(2),16if(2),16ig,16ih(2),16ii,16ij(2),16ik,16il(2),16im,16in,16io,16ip(2),16iq,16ir(2),16is,16it(2),16iu,16iv(2),16iw,16ix,16iz(2),16j,16ja(2),16jb(2),16jc,16jd,16k(2),16m,16n,16o,16p,16q,16r,16s(2),16t,16x,16y,16z)]
+--------------------------------------
+Point symbol for net: {4^3}2{4^6.8^4.10^4.12}
+3,3,6-c net with stoichiometry (3-c)(3-c)(6-c); 3-nodal net
+
+New topology, please, contact the authors (17814 types in 4 databases)
+
+Essential rings by homocrossing: 4a,4b,4c,4d,8d,8e,8f,12g,12l,12n,16fp,16gj,16ib,16ix
+Inessential rings by homocrossing: 6a,6b,8a,8b,8c,12a,12b,12c,12d,12e,12f,12h,12i,12j,12k,12m,16a,16b,16c,16d,16e,16f,16g,16h,16i,16j,16k,16l,16m,16n,16o,16p,16q,16r,16s,16t,16u,16v,16w,16x,16y,16z,16aa,16ab,16ac,16ad,16ae,16af,16ag,16ah,16ai,16aj,16ak,16al,16am,16an,16ao,16ap,16aq,16ar,16as,16at,16au,16av,16aw,16ax,16ay,16az,16ba,16bb,16bc,16bd,16be,16bf,16bg,16bh,16bi,16bj,16bk,16bl,16bm,16bn,16bo,16bp,16bq,16br,16bs,16bt,16bu,16bv,16bw,16bx,16by,16bz,16ca,16cb,16cc,16cd,16ce,16cf,16cg,16ch,16ci,16cj,16ck,16cl,16cm,16cn,16co,16cp,16cq,16cr,16cs,16ct,16cu,16cv,16cw,16cx,16cy,16cz,16da,16db,16dc,16dd,16de,16df,16dg,16dh,16di,16dj,16dk,16dl,16dm,16dn,16do,16dp,16dq,16dr,16ds,16dt,16du,16dv,16dw,16dx,16dy,16dz,16ea,16eb,16ec,16ed,16ee,16ef,16eg,16eh,16ei,16ej,16ek,16el,16em,16en,16eo,16ep,16eq,16er,16es,16et,16eu,16ev,16ew,16ex,16ey,16ez,16fa,16fb,16fc,16fd,16fe,16ff,16fg,16fh,16fi,16fj,16fk,16fl,16fm,16fn,16fo,16fq,16fr,16fs,16ft,16fu,16fv,16fw,16fx,16fy,16fz,16ga,16gb,16gc,16gd,16ge,16gf,16gg,16gh,16gi,16gk,1
+6gl,16gm,16gn,16go,16gp,16gq,16gr,16gs,16gt,16gu,16gv,16gw,16gx,16gy,16gz,16ha,16hb,16hc,16hd,16he,16hf,16hg,16hh,16hi,16hj,16hk,16hl,16hm,16hn,16ho,16hp,16hq,16hr,16hs,16ht,16hu,16hv,16hw,16hx,16hy,16hz,16ia,16ic,16id,16ie,16if,16ig,16ih,16ii,16ij,16ik,16il,16im,16in,16io,16ip,16iq,16ir,16is,16it,16iu,16iv,16iw,16iy,16iz,16ja,16jb,16jc,16jd
+---------------
+Heterocrossings
+---------------
+8d: 8f
+8e: 16fp,16gj
+8f: 16fp,16gj
+12g: 16gj,16ix
+12l: 12n,16gj,16ix
+16gj: 16ib
+---------------------
+Inessential crossings
+---------------------
+4a: 16fp,16gj,16ib,16ix
+-----------------------------
+Primitive proper tiling No 1
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8d,8e,12g,12l,16ib
+Inessential rings by heterocrossing: 8f,12n,16fp,16gj,16ix
+
+10/4:[4^2.8^2]; [4a^2.8d.8e]; Type: t-kds; Centroid:(0.000,0.250,0.374); Volume=0.462; G3=0.311177
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+15/5:[4^3.12^2]; [4b^3.12g.12l]; Type: [4^3.12^2]; Centroid:(0.255,0.255,0.255); Volume=1.191; G3=0.444856
+36/8:[4^3.12^2.16^3]; [4c^3.12g^2.16ib^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=29.732; G3=0.092051
+24/6:[4^2.8^2.16^2]; [4d^2.8e^2.16ib^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=9.312; G3=0.189314
+Inessential crossings
+Error in volume: 0.722138A^3 (0.09%)
+
+Tiling: 6[4^2.8^2]+4[4^3.12^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.8d.8e]+4[4b^3.12g.12l]+6[4a^2.4b^2.4c.4d]+3[4d^2.8e^2.16ib^2]+2[4c^3.12g^2.16ib^3]
+Transitivity: [3695]
+D-size: 128
+Average ring size: 6.74
+Number of dangling edges per vertex: 1.92
+-----------------------------
+Primitive proper tiling No 2
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8d,8e,12g,12n,16ib
+Inessential rings by heterocrossing: 8f,12l,16fp,16gj,16ix
+
+10/4:[4^2.8^2]; [4a^2.8d.8e]; Type: t-kds; Centroid:(0.000,0.250,0.374); Volume=0.462; G3=0.311177
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+15/5:[4^3.12^2]; [4b^3.12g.12n]; Type: [4^3.12^2]; Centroid:(0.249,0.249,0.249); Volume=1.191; G3=0.447126
+36/8:[4^3.12^2.16^3]; [4c^3.12g^2.16ib^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=29.732; G3=0.092051
+24/6:[4^2.8^2.16^2]; [4d^2.8e^2.16ib^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=9.312; G3=0.189314
+Inessential crossings
+Error in volume: 0.722138A^3 (0.09%)
+
+Tiling: 6[4^2.8^2]+4[4^3.12^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.8d.8e]+4[4b^3.12g.12n]+6[4a^2.4b^2.4c.4d]+3[4d^2.8e^2.16ib^2]+2[4c^3.12g^2.16ib^3]
+Transitivity: [3695]
+D-size: 128
+Average ring size: 6.74
+Number of dangling edges per vertex: 1.92
+-----------------------------
+Primitive proper tiling No 3
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8d,8e,12n,16ib,16ix
+Inessential rings by heterocrossing: 8f,12g,12l,16fp,16gj
+
+10/4:[4^2.8^2]; [4a^2.8d.8e]; Type: t-kds; Centroid:(0.000,0.250,0.374); Volume=0.462; G3=0.311177
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+18/4:[4^2.16^2]; [4b^2.16ib.16ix]; Type: [4^2.16^2]; Centroid:(0.026,0.224,0.125); Volume=0.926; G3=0.727016
+36/8:[4^3.12^2.16^3]; [4c^3.12n^2.16ix^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=30.470; G3=0.094664
+24/6:[4^2.8^2.16^2]; [4d^2.8e^2.16ib^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=9.312; G3=0.189314
+Inessential crossings
+Error in volume: 18.8919A^3 (2.43%)
+
+Tiling: 6[4^2.8^2]+6[4^2.16^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.8d.8e]+6[4b^2.16ib.16ix]+6[4a^2.4b^2.4c.4d]+3[4d^2.8e^2.16ib^2]+2[4c^3.12n^2.16ix^3]
+Transitivity: [3695]
+D-size: 144
+Average ring size: 7.32
+Number of dangling edges per vertex: 2.00
+-----------------------------
+Primitive proper tiling No 4
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8d,12g,12l,16fp,16ib
+Inessential rings by heterocrossing: 8e,8f,12n,16gj,16ix
+
+18/4:[4^2.16^2]; [4a^2.16fp.16ib]; Type: [4^2.16^2]; Centroid:(0.036,0.286,0.625); Volume=1.424; G3=0.602665
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+15/5:[4^3.12^2]; [4b^3.12g.12l]; Type: [4^3.12^2]; Centroid:(0.255,0.255,0.255); Volume=1.191; G3=0.444856
+36/8:[4^3.12^2.16^3]; [4c^3.12g^2.16ib^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=29.732; G3=0.092051
+24/6:[4^2.8^2.16^2]; [4d^2.8d^2.16fp^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=8.808; G3=0.211656
+Inessential crossings
+Error in volume: 34.7945A^3 (4.48%)
+
+Tiling: 6[4^2.16^2]+4[4^3.12^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.16fp.16ib]+4[4b^3.12g.12l]+6[4a^2.4b^2.4c.4d]+3[4d^2.8d^2.16fp^2]+2[4c^3.12g^2.16ib^3]
+Transitivity: [3695]
+D-size: 144
+Average ring size: 7.58
+Number of dangling edges per vertex: 2.00
+-----------------------------
+Primitive proper tiling No 5
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8d,12g,12n,16fp,16ib
+Inessential rings by heterocrossing: 8e,8f,12l,16gj,16ix
+
+18/4:[4^2.16^2]; [4a^2.16fp.16ib]; Type: [4^2.16^2]; Centroid:(0.036,0.286,0.625); Volume=1.424; G3=0.602665
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+15/5:[4^3.12^2]; [4b^3.12g.12n]; Type: [4^3.12^2]; Centroid:(0.249,0.249,0.249); Volume=1.191; G3=0.447126
+36/8:[4^3.12^2.16^3]; [4c^3.12g^2.16ib^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=29.732; G3=0.092051
+24/6:[4^2.8^2.16^2]; [4d^2.8d^2.16fp^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=8.808; G3=0.211656
+Inessential crossings
+Error in volume: 34.7945A^3 (4.48%)
+
+Tiling: 6[4^2.16^2]+4[4^3.12^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.16fp.16ib]+4[4b^3.12g.12n]+6[4a^2.4b^2.4c.4d]+3[4d^2.8d^2.16fp^2]+2[4c^3.12g^2.16ib^3]
+Transitivity: [3695]
+D-size: 144
+Average ring size: 7.58
+Number of dangling edges per vertex: 2.00
+-----------------------------
+Primitive proper tiling No 6
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8d,12n,16fp,16gj,16ix
+Inessential rings by heterocrossing: 8e,8f,12g,12l,16ib
+
+18/4:[4^2.16^2]; [4a^2.16gj.16ix]; Type: [4^2.16^2]; Centroid:(0.037,0.287,0.625); Volume=1.455; G3=0.602607
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+18/4:[4^2.16^2]; [4b^2.16fp.16gj]; Type: [4^2.16^2]; Centroid:(0.024,0.226,0.125); Volume=0.907; G3=0.757859
+36/8:[4^3.12^2.16^3]; [4c^3.12n^2.16ix^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=30.470; G3=0.094664
+24/6:[4^2.8^2.16^2]; [4d^2.8d^2.16fp^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=8.808; G3=0.211656
+Inessential crossings
+Error in volume: 53.5462A^3 (6.90%)
+
+Tiling: 12[4^2.16^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.16gj.16ix]+6[4b^2.16fp.16gj]+6[4a^2.4b^2.4c.4d]+3[4d^2.8d^2.16fp^2]+2[4c^3.12n^2.16ix^3]
+Transitivity: [3695]
+D-size: 160
+Average ring size: 8.14
+Number of dangling edges per vertex: 2.06
+-----------------------------
+Primitive proper tiling No 7
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8d,12n,16fp,16ib,16ix
+Inessential rings by heterocrossing: 8e,8f,12g,12l,16gj
+
+18/4:[4^2.16^2]; [4a^2.16fp.16ib]; Type: [4^2.16^2]; Centroid:(0.036,0.286,0.625); Volume=1.424; G3=0.602665
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+18/4:[4^2.16^2]; [4b^2.16ib.16ix]; Type: [4^2.16^2]; Centroid:(0.026,0.224,0.125); Volume=0.926; G3=0.727016
+36/8:[4^3.12^2.16^3]; [4c^3.12n^2.16ix^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=30.470; G3=0.094664
+24/6:[4^2.8^2.16^2]; [4d^2.8d^2.16fp^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=8.808; G3=0.211656
+Inessential crossings
+Error in volume: 52.9643A^3 (6.82%)
+
+Tiling: 12[4^2.16^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.16fp.16ib]+6[4b^2.16ib.16ix]+6[4a^2.4b^2.4c.4d]+3[4d^2.8d^2.16fp^2]+2[4c^3.12n^2.16ix^3]
+Transitivity: [3695]
+D-size: 160
+Average ring size: 8.14
+Number of dangling edges per vertex: 2.06
+-----------------------------
+Primitive proper tiling No 8
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8e,8f,12g,12l,16ib
+Inessential rings by heterocrossing: 8d,12n,16fp,16gj,16ix
+
+10/4:[4^2.8^2]; [4a^2.8e.8f]; Type: t-kds; Centroid:(0.000,0.250,0.363); Volume=0.447; G3=0.314437
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+15/5:[4^3.12^2]; [4b^3.12g.12l]; Type: [4^3.12^2]; Centroid:(0.255,0.255,0.255); Volume=1.191; G3=0.444856
+36/8:[4^3.12^2.16^3]; [4c^3.12g^2.16ib^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=29.732; G3=0.092051
+24/6:[4^2.8^2.16^2]; [4d^2.8e^2.16ib^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=9.312; G3=0.189314
+Inessential crossings
+
+Tiling: 6[4^2.8^2]+4[4^3.12^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.8e.8f]+4[4b^3.12g.12l]+6[4a^2.4b^2.4c.4d]+3[4d^2.8e^2.16ib^2]+2[4c^3.12g^2.16ib^3]
+Transitivity: [3695]
+D-size: 128
+Average ring size: 6.74
+Number of dangling edges per vertex: 1.92
+-----------------------------
+Primitive proper tiling No 9
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8e,8f,12g,12n,16ib
+Inessential rings by heterocrossing: 8d,12l,16fp,16gj,16ix
+
+10/4:[4^2.8^2]; [4a^2.8e.8f]; Type: t-kds; Centroid:(0.000,0.250,0.363); Volume=0.447; G3=0.314437
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+15/5:[4^3.12^2]; [4b^3.12g.12n]; Type: [4^3.12^2]; Centroid:(0.249,0.249,0.249); Volume=1.191; G3=0.447126
+36/8:[4^3.12^2.16^3]; [4c^3.12g^2.16ib^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=29.732; G3=0.092051
+24/6:[4^2.8^2.16^2]; [4d^2.8e^2.16ib^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=9.312; G3=0.189314
+Inessential crossings
+
+Tiling: 6[4^2.8^2]+4[4^3.12^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.8e.8f]+4[4b^3.12g.12n]+6[4a^2.4b^2.4c.4d]+3[4d^2.8e^2.16ib^2]+2[4c^3.12g^2.16ib^3]
+Transitivity: [3695]
+D-size: 128
+Average ring size: 6.74
+Number of dangling edges per vertex: 1.92
+-----------------------------
+Primitive proper tiling No 10
+-----------------------------
+
+Essential rings by heterocrossing: 4a,4b,4c,4d,8e,8f,12n,16ib,16ix
+Inessential rings by heterocrossing: 8d,12g,12l,16fp,16gj
+
+10/4:[4^2.8^2]; [4a^2.8e.8f]; Type: t-kds; Centroid:(0.000,0.250,0.363); Volume=0.447; G3=0.314437
+8/6:[4^6]; [4a^2.4b^2.4c.4d]; Type: t-cub; Centroid:(0.085,0.375,0.335); Volume=0.368; G3=0.117564
+18/4:[4^2.16^2]; [4b^2.16ib.16ix]; Type: [4^2.16^2]; Centroid:(0.026,0.224,0.125); Volume=0.926; G3=0.727016
+36/8:[4^3.12^2.16^3]; [4c^3.12n^2.16ix^3]; Type: [4^3.12^2.16^3]; Centroid:(0.875,0.375,0.125); Volume=30.470; G3=0.094664
+24/6:[4^2.8^2.16^2]; [4d^2.8e^2.16ib^2]; Type: [4^2.8^2.16^2]; Centroid:(0.125,0.000,0.250); Volume=9.312; G3=0.189314
+Inessential crossings
+Error in volume: 18.1698A^3 (2.34%)
+
+Tiling: 6[4^2.8^2]+6[4^2.16^2]+6[4^6]+3[4^2.8^2.16^2]+2[4^3.12^2.16^3] = 6[4a^2.8e.8f]+6[4b^2.16ib.16ix]+6[4a^2.4b^2.4c.4d]+3[4d^2.8e^2.16ib^2]+2[4c^3.12n^2.16ix^3]
+Transitivity: [3695]
+D-size: 144
+Average ring size: 7.32
+Number of dangling edges per vertex: 2.00
+There are several tilings. Trying to build a unique tiling...
+Natural tiling cannot be constructed. Not all faces are shared.
+----------------------------------------------
+Minimum circuits for independent edges (bonds)
+----------------------------------------------------------------------------------------
+ No | Atom       x       y       z     | Atom       x       y       z     |  Dist.  | N
+----------------------------------------------------------------------------------------
+  1 | C1        0.0689  0.3487  0.3139 | C3        0.1115  0.2734  0.3799 |   1.000 |  4
+  2 | C1        0.0689  0.3487  0.3139 | C3       -0.0234  0.3615  0.3701 |   1.000 |  4
+  3 | C1        0.0689  0.3487  0.3139 | C3        0.1201  0.3885  0.2266 |   1.000 |  4
+  4 | C2        0.1284  0.1660  0.3787 | C3        0.1115  0.2734  0.3799 |   1.000 |  4
+  5 | C2        0.1284  0.1660  0.3787 | C3        0.0234  0.1385  0.3701 |   1.000 |  4
+  6 | C2        0.1284  0.1660  0.3787 | C3        0.2266  0.1201  0.3885 |   1.001 |  4
+----------------------------------------------------------------------------------------
+Elapsed time: 1043.49 sec.

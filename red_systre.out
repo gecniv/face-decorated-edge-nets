@@ -1,0 +1,94 @@
+
+Structure #1 - "red".
+
+   Input structure described as 3-periodic.
+   Given space group is Pm-3m.
+   30 nodes and 72 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 48 elements.
+   3 kinds of node.
+
+   Coordination sequences:
+      Node 1:    4 16 24 66 84 170 156 322 308 566
+      Node 2:    4 16 26 69 84 185 186 348 296 545
+      Node 3:    6 12 38 52 126 138 264 228 450 410
+
+   TD10 = 1737
+
+   Ideal space group is Pm-3m.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 3.41631, b = 3.41631, c = 3.41631
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 39.87222
+   Relaxed positions:
+      Node 1:    0.00000 0.00000 0.29207
+      Node 2:    0.14588 0.14588 0.50000
+      Node 3:    0.00000 0.29197 0.29197
+   Edges:
+      0.00000 0.00000 0.29207  <->  0.00000 0.29197 0.29197
+      0.00000 0.29197 0.29197  <->  0.14588 0.14588 0.50000
+   Edge centers:
+      0.00000 0.14598 0.29202
+      0.07294 0.21892 0.39598
+
+   Edge statistics: minimum = 0.99745, maximum = 1.00128, average = 1.00000
+   Angle statistics: minimum = 59.70039, maximum = 179.95765, average = 109.62237
+   Shortest non-bonded distance = 0.99674
+
+   Degrees of freedom: 4
+
+Finished structure #1 - "red".
+
+
+Structure #1 - "red".
+
+   Input structure described as 3-periodic.
+   Given space group is Pm-3m.
+   30 nodes and 72 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 48 elements.
+   3 kinds of node.
+
+   Coordination sequences:
+      Node 1:    4 16 24 66 84 170 156 322 308 566
+      Node 2:    4 16 26 69 84 185 186 348 296 545
+      Node 3:    6 12 38 52 126 138 264 228 450 410
+
+   TD10 = 1737
+
+   Ideal space group is Pm-3m.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 3.41631, b = 3.41631, c = 3.41631
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 39.87222
+   Relaxed positions:
+      Node 1:    0.00000 0.00000 0.29207
+      Node 2:    0.14588 0.14588 0.50000
+      Node 3:    0.00000 0.29197 0.29197
+   Edges:
+      0.00000 0.00000 0.29207  <->  0.00000 0.29197 0.29197
+      0.00000 0.29197 0.29197  <->  0.14588 0.14588 0.50000
+   Edge centers:
+      0.00000 0.14598 0.29202
+      0.07294 0.21892 0.39598
+
+   Edge statistics: minimum = 0.99745, maximum = 1.00128, average = 1.00000
+   Angle statistics: minimum = 59.70039, maximum = 179.95765, average = 109.62237
+   Shortest non-bonded distance = 0.99674
+
+   Degrees of freedom: 4
+
+Finished structure #1 - "red".
+
+Finished data file "E:\work VG\CIFs-Res\TOPOS\red_systre.cgd".
+

@@ -1,0 +1,94 @@
+
+Structure #1 - "ved".
+
+   Input structure described as 3-periodic.
+   Given space group is I4132.
+   36 nodes and 72 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 24 elements.
+   2 kinds of node.
+
+   Coordination sequences:
+      Node 1:    3 12 9 25 17 48 35 98 70 186
+      Node 2:    6 6 18 12 34 25 70 50 140 95
+
+   TD10 = 488
+
+   Ideal space group is I4132.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 6.69333, b = 6.69333, c = 6.69333
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 299.86555
+   Relaxed positions:
+      Node 1:    0.01688 0.29427 0.09429
+      Node 2:    0.04798 0.12500 0.20202
+   Edges:
+      0.04798 0.12500 0.20202  <->  0.09429 0.01688 0.29427
+      0.04798 0.12500 0.20202  <->  0.09429 -0.01688 0.20573
+      0.04798 0.12500 0.20202  <->  0.15571 0.04427 0.26688
+   Edge centers:
+      0.07113 0.07094 0.24814
+      0.07113 0.05406 0.20388
+      0.10184 0.08463 0.23445
+
+   Edge statistics: minimum = 0.99928, maximum = 1.00049, average = 1.00000
+   Angle statistics: minimum = 28.11688, maximum = 165.96422, average = 109.25502
+   Shortest non-bonded distance = 0.48600
+
+   Degrees of freedom: 5
+
+Finished structure #1 - "ved".
+
+
+Structure #1 - "ved".
+
+   Input structure described as 3-periodic.
+   Given space group is I4132.
+   36 nodes and 72 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 24 elements.
+   2 kinds of node.
+
+   Coordination sequences:
+      Node 1:    3 12 9 25 17 48 35 98 70 186
+      Node 2:    6 6 18 12 34 25 70 50 140 95
+
+   TD10 = 488
+
+   Ideal space group is I4132.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 6.69333, b = 6.69333, c = 6.69333
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 299.86555
+   Relaxed positions:
+      Node 1:    0.01688 0.29427 0.09429
+      Node 2:    0.04798 0.12500 0.20202
+   Edges:
+      0.04798 0.12500 0.20202  <->  0.09429 0.01688 0.29427
+      0.04798 0.12500 0.20202  <->  0.09429 -0.01688 0.20573
+      0.04798 0.12500 0.20202  <->  0.15571 0.04427 0.26688
+   Edge centers:
+      0.07113 0.07094 0.24814
+      0.07113 0.05406 0.20388
+      0.10184 0.08463 0.23445
+
+   Edge statistics: minimum = 0.99928, maximum = 1.00049, average = 1.00000
+   Angle statistics: minimum = 28.11688, maximum = 165.96422, average = 109.25502
+   Shortest non-bonded distance = 0.48600
+
+   Degrees of freedom: 5
+
+Finished structure #1 - "ved".
+
+Finished data file "E:\work VG\CIFs-Res\TOPOS\ved_systre.cgd".
+

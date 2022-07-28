@@ -1,0 +1,110 @@
+
+Structure #1 - "scd-2".
+
+   Input structure described as 3-periodic.
+   Given space group is I4132.
+   72 nodes and 144 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 24 elements.
+   3 kinds of node.
+
+   Coordination sequences:
+      Node 1:    3 12 10 33 30 98 85 266 220 648
+      Node 2:    3 12 10 33 30 98 85 266 220 648
+      Node 3:    6 6 20 18 60 53 170 144 440 350
+
+   TD10 = 1360
+
+   Ideal space group is I4132.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 4.11452, b = 4.11452, c = 4.11452
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 69.65569
+   Relaxed positions:
+      Node 1:    0.00177 0.18832 0.08460
+      Node 2:    0.28928 0.31635 0.45642
+      Node 3:    0.13454 0.35100 0.30835
+   Edges:
+      0.00177 0.18832 0.08460  <->  -0.13454 0.14900 0.30835
+      0.13454 0.35100 0.30835  <->  0.20642 0.43365 0.53928
+      0.00177 0.18832 0.08460  <->  0.10100 0.38454 -0.05835
+      0.00177 0.18832 0.08460  <->  -0.10100 0.11546 -0.05835
+      0.13454 0.35100 0.30835  <->  0.21072 0.31635 0.54358
+      0.13454 0.35100 0.30835  <->  0.29358 0.43365 0.46072
+   Edge centers:
+      -0.06638 0.16866 0.19648
+      0.17048 0.39232 0.42381
+      0.05138 0.28643 0.01313
+      -0.04961 0.15189 0.01313
+      0.17263 0.33367 0.42596
+      0.21406 0.39232 0.38453
+
+   Edge statistics: minimum = 0.78397, maximum = 1.09005, average = 1.00000
+   Angle statistics: minimum = 24.43786, maximum = 172.64191, average = 104.15112
+   Shortest non-bonded distance = 0.48168
+
+   Degrees of freedom: 10
+
+Finished structure #1 - "scd-2".
+
+
+Structure #1 - "scd-2".
+
+   Input structure described as 3-periodic.
+   Given space group is I4132.
+   72 nodes and 144 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 24 elements.
+   3 kinds of node.
+
+   Coordination sequences:
+      Node 1:    3 12 10 33 30 98 85 266 220 648
+      Node 2:    3 12 10 33 30 98 85 266 220 648
+      Node 3:    6 6 20 18 60 53 170 144 440 350
+
+   TD10 = 1360
+
+   Ideal space group is I4132.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 4.11452, b = 4.11452, c = 4.11452
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 69.65569
+   Relaxed positions:
+      Node 1:    0.00177 0.18832 0.08460
+      Node 2:    0.28928 0.31635 0.45642
+      Node 3:    0.13454 0.35100 0.30835
+   Edges:
+      0.00177 0.18832 0.08460  <->  -0.13454 0.14900 0.30835
+      0.13454 0.35100 0.30835  <->  0.20642 0.43365 0.53928
+      0.00177 0.18832 0.08460  <->  0.10100 0.38454 -0.05835
+      0.00177 0.18832 0.08460  <->  -0.10100 0.11546 -0.05835
+      0.13454 0.35100 0.30835  <->  0.21072 0.31635 0.54358
+      0.13454 0.35100 0.30835  <->  0.29358 0.43365 0.46072
+   Edge centers:
+      -0.06638 0.16866 0.19648
+      0.17048 0.39232 0.42381
+      0.05138 0.28643 0.01313
+      -0.04961 0.15189 0.01313
+      0.17263 0.33367 0.42596
+      0.21406 0.39232 0.38453
+
+   Edge statistics: minimum = 0.78397, maximum = 1.09005, average = 1.00000
+   Angle statistics: minimum = 24.43786, maximum = 172.64191, average = 104.15112
+   Shortest non-bonded distance = 0.48168
+
+   Degrees of freedom: 10
+
+Finished structure #1 - "scd-2".
+
+Finished data file "E:\work VG\CIFs-Res\TOPOS\scd_systre.cgd".
+

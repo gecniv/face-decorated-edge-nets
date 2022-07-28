@@ -1,0 +1,90 @@
+
+Structure #1 - "sed".
+
+   Input structure described as 3-periodic.
+   Given space group is Im-3m.
+   36 nodes and 72 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 48 elements.
+   2 kinds of node.
+
+   Coordination sequences:
+      Node 1:    3 12 10 31 25 70 50 128 80 196
+      Node 2:    6 6 20 17 50 38 100 64 160 104
+
+   TD10 = 593
+
+   Ideal space group is Im-3m.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 5.97315, b = 5.97315, c = 5.97315
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 213.11350
+   Relaxed positions:
+      Node 1:    0.00000 0.22212 0.44973
+      Node 2:    0.00000 0.36862 0.36862
+   Edges:
+      0.00000 0.22212 0.44973  <->  0.00000 0.36862 0.36862
+      0.00000 0.22212 0.44973  <->  0.13138 0.13138 0.50000
+   Edge centers:
+      0.00000 0.29537 0.40918
+      0.06569 0.17675 0.47487
+
+   Edge statistics: minimum = 0.99988, maximum = 1.00023, average = 1.00000
+   Angle statistics: minimum = 31.30522, maximum = 161.65783, average = 109.96294
+   Shortest non-bonded distance = 0.53964
+
+   Degrees of freedom: 4
+
+Finished structure #1 - "sed".
+
+
+Structure #1 - "sed".
+
+   Input structure described as 3-periodic.
+   Given space group is Im-3m.
+   36 nodes and 72 edges in repeat unit as given.
+
+   Given repeat unit is accurate.
+   Point group has 48 elements.
+   2 kinds of node.
+
+   Coordination sequences:
+      Node 1:    3 12 10 31 25 70 50 128 80 196
+      Node 2:    6 6 20 17 50 38 100 64 160 104
+
+   TD10 = 593
+
+   Ideal space group is Im-3m.
+
+   Structure is new for this run.
+
+
+   Relaxed cell parameters:
+       a = 5.97315, b = 5.97315, c = 5.97315
+       alpha = 90.0000, beta = 90.0000, gamma = 90.0000
+   Cell volume: 213.11350
+   Relaxed positions:
+      Node 1:    0.00000 0.22212 0.44973
+      Node 2:    0.00000 0.36862 0.36862
+   Edges:
+      0.00000 0.22212 0.44973  <->  0.00000 0.36862 0.36862
+      0.00000 0.22212 0.44973  <->  0.13138 0.13138 0.50000
+   Edge centers:
+      0.00000 0.29537 0.40918
+      0.06569 0.17675 0.47487
+
+   Edge statistics: minimum = 0.99988, maximum = 1.00023, average = 1.00000
+   Angle statistics: minimum = 31.30522, maximum = 161.65783, average = 109.96294
+   Shortest non-bonded distance = 0.53964
+
+   Degrees of freedom: 4
+
+Finished structure #1 - "sed".
+
+Finished data file "E:\work VG\CIFs-Res\TOPOS\sed_systre.cgd".
+

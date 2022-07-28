@@ -1,0 +1,197 @@
+data_hypo-sed-MOF
+_audit_creation_date              2022-06-21
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'IM-3M'
+_symmetry_Int_Tables_number       229
+_symmetry_cell_setting            cubic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -x,y,-z
+  x,-y,-z
+  z,x,y
+  z,-x,-y
+  -z,-x,y
+  -z,x,-y
+  y,z,x
+  -y,z,-x
+  y,-z,-x
+  -y,-z,x
+  y,x,-z
+  -y,-x,-z
+  y,-x,z
+  -y,x,z
+  x,z,-y
+  -x,z,y
+  -x,-z,-y
+  x,-z,y
+  z,y,-x
+  z,-y,x
+  -z,y,x
+  -z,-y,-x
+  -x,-y,-z
+  x,y,-z
+  x,-y,z
+  -x,y,z
+  -z,-x,-y
+  -z,x,y
+  z,x,-y
+  z,-x,y
+  -y,-z,-x
+  y,-z,x
+  -y,z,x
+  y,z,-x
+  -y,-x,z
+  y,x,z
+  -y,x,-z
+  y,-x,-z
+  -x,-z,y
+  x,-z,-y
+  x,z,y
+  -x,z,-y
+  -z,-y,x
+  -z,y,-x
+  z,-y,-x
+  z,y,x
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  z+1/2,x+1/2,y+1/2
+  z+1/2,-x+1/2,-y+1/2
+  -z+1/2,-x+1/2,y+1/2
+  -z+1/2,x+1/2,-y+1/2
+  y+1/2,z+1/2,x+1/2
+  -y+1/2,z+1/2,-x+1/2
+  y+1/2,-z+1/2,-x+1/2
+  -y+1/2,-z+1/2,x+1/2
+  y+1/2,x+1/2,-z+1/2
+  -y+1/2,-x+1/2,-z+1/2
+  y+1/2,-x+1/2,z+1/2
+  -y+1/2,x+1/2,z+1/2
+  x+1/2,z+1/2,-y+1/2
+  -x+1/2,z+1/2,y+1/2
+  -x+1/2,-z+1/2,-y+1/2
+  x+1/2,-z+1/2,y+1/2
+  z+1/2,y+1/2,-x+1/2
+  z+1/2,-y+1/2,x+1/2
+  -z+1/2,y+1/2,x+1/2
+  -z+1/2,-y+1/2,-x+1/2
+  -x+1/2,-y+1/2,-z+1/2
+  x+1/2,y+1/2,-z+1/2
+  x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  -z+1/2,-x+1/2,-y+1/2
+  -z+1/2,x+1/2,y+1/2
+  z+1/2,x+1/2,-y+1/2
+  z+1/2,-x+1/2,y+1/2
+  -y+1/2,-z+1/2,-x+1/2
+  y+1/2,-z+1/2,x+1/2
+  -y+1/2,z+1/2,x+1/2
+  y+1/2,z+1/2,-x+1/2
+  -y+1/2,-x+1/2,z+1/2
+  y+1/2,x+1/2,z+1/2
+  -y+1/2,x+1/2,-z+1/2
+  y+1/2,-x+1/2,-z+1/2
+  -x+1/2,-z+1/2,y+1/2
+  x+1/2,-z+1/2,-y+1/2
+  x+1/2,z+1/2,y+1/2
+  -x+1/2,z+1/2,-y+1/2
+  -z+1/2,-y+1/2,x+1/2
+  -z+1/2,y+1/2,-x+1/2
+  z+1/2,-y+1/2,-x+1/2
+  z+1/2,y+1/2,x+1/2
+_cell_length_a                    57.0998
+_cell_length_b                    57.0998
+_cell_length_c                    57.0998
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+O1A    O     0.54242   0.15779   0.12416   0.07100  Uiso   1.00
+O3A    O     0.65157   0.31466   0.01954   0.06500  Uiso   1.00
+O2A    O     0.52260   0.13382   0.10055   0.12700  Uiso   1.00
+C8A    C     0.58511   0.18326   0.02141   0.09800  Uiso   1.00
+N2A    C     0.59977   0.20296   0.02125   0.10100  Uiso   1.00
+C1A    C     0.53830   0.14904   0.10419   0.09000  Uiso   1.00
+C2A    C     0.55199   0.15709   0.08381   0.09600  Uiso   1.00
+C7A    C     0.54865   0.14611   0.06216   0.10000  Uiso   1.00
+C6A    C     0.56004   0.15428   0.04224   0.09900  Uiso   1.00
+C5A    C     0.57506   0.17369   0.04337   0.10800  Uiso   1.00
+C4A    C     0.57880   0.18451   0.06516   0.11000  Uiso   1.00
+C3A    C     0.56735   0.17624   0.08527   0.11200  Uiso   1.00
+C12A   C     0.63765   0.26803   0.02116   0.07200  Uiso   1.00
+C11A   C     0.62709   0.24596   0.02116   0.06500  Uiso   0.50
+In1    Cr    0.52957   0.15424   0.15424   0.07422  Uani   1.00
+O1D    O     0.55827   0.16609   0.16609   0.05100  Uiso   1.00
+In2    Cr    0.50000   0.11829   0.11829   0.06103  Uani   1.00
+N2B    O     0.50000   0.09479   0.09479   0.07600  Uiso   1.00
+O1M3   O     0.50000   0.14223   0.14223   0.14000  Uiso   1.00
+N1A    C     0.57804   0.17374   0.00000   0.09400  Uiso   1.00
+C9A    C     0.60742   0.21287   0.00000   0.10000  Uiso   1.00
+C13A   C     0.64276   0.27941   0.00000   0.08100  Uiso   1.00
+C10A   C     0.62127   0.23485   0.00000   0.08200  Uiso   1.00
+C14A   C     0.64959   0.30434   0.00000   0.07000  Uiso   1.00
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1       0.11320   0.05473   0.05473  -0.00492  -0.00492   0.00689
+In2       0.09647   0.04331   0.04331   0.00000   0.00000   0.00197
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+O1A    In1     1.879   .     S
+O1A    C1A     1.267   .     A
+O3A    C14A    1.267   .     A
+O3A    In1     1.872   70_554 S
+O2A    In2     1.865   .     S
+O2A    C1A     1.266   .     A
+C8A    N2A     1.402   .     A
+C8A    N1A     1.397   .     A
+C8A    C5A     1.483   .     S
+N2A    C9A     1.408   .     A
+C1A    C2A     1.475   .     S
+C2A    C7A     1.399   .     A
+C2A    C3A     1.404   .     A
+C7A    C6A     1.391   .     A
+C6A    C5A     1.403   .     A
+C5A    C4A     1.406   .     A
+C4A    C3A     1.403   .     A
+C12A   C13A    1.402   .     A
+C12A   C11A    1.397   .     A
+C11A   C10A    1.404   .     A
+In1    O1A     1.879   43    S
+In1    O1D     1.897   .     S
+In1    O1M3    1.947   .     S
+In1    O3A     1.872   79_545 S
+In1    O3A     1.872   70_554 S
+In2    O2A     1.865   18_655 S
+In2    O2A     1.865   28_655 S
+In2    O2A     1.865   43    S
+In2    N2B     1.897   .     S
+In2    O1M3    1.933   .     S
+O1M3   In1     1.947   18_655 S
+N1A    C8A     1.397   26    A
+C9A    N2A     1.408   26    A
+C9A    C10A    1.484   .     S
+C13A   C12A    1.402   26    A
+C13A   C14A    1.476   .     S
+C10A   C11A    1.404   26    A
+C14A   O3A     1.267   26    A
